@@ -17,7 +17,7 @@ alias grep="grep --color=auto"
 alias v="nvim"
 alias ..="cd .."
 alias v.="nvim ."
-
+alias scripts="cd ~/personal/scripts"
 # ---------------UNI Aliases--------------------
 alias dwt="cd ~/UNI/2_CS/DWT/"
 alias gad="cd ~/UNI/2_CS/GAD/"
